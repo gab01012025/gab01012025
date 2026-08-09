@@ -15,7 +15,7 @@ Figures below are counted in the repositories, not estimated. Most client work i
 | Project | What it does | Scale |
 |---|---|---|
 | **Optical retail platform** | Multi-store retail with prescriptions attached to orders, stock across locations, and a storefront on the same API | NestJS · Prisma · Next.js — 207 commits, 181 endpoints, 44 migrations, **89 test files** |
-| **[Marketplace reconciliation](https://github.com/gab01012025/ml-mp-reconciliation)** | Matches marketplace payouts against orders and surfaces the gaps | Fastify · Prisma · Zod — 132 commits, **39 test files**, CI on every push |
+| **[Marketplace reconciliation](https://github.com/gabrielbarretodev/ml-mp-reconciliation)** | Matches marketplace payouts against orders and surfaces the gaps | Fastify · Prisma · Zod — 132 commits, **39 test files**, CI on every push |
 | **Corporate intranet / ERP** | Role-based internal operations, PDF and Excel export, written handover manual | Next.js 14 · Prisma 6 — 123 API routes, 235 TypeScript files |
 | **Amazon SP-API pipeline** | Unattended listing creation and catalogue sync across separate seller accounts | Python · FastAPI · Alembic · APScheduler · Docker |
 | **Storefront, two payment providers** | Stripe and Mercado Pago in parallel — two webhook models, one consistent order state | Next.js · Prisma — 503 commits, end-to-end tested |
