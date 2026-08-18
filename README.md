@@ -6,6 +6,8 @@ I build web applications, payment integrations, automations and AI systems — f
 
 **[proficientstack.com](https://proficientstack.com)** · **gabriel@proficientstack.com**
 
+> **Amazon sellers:** if your settlement doesn't reconcile against the transactions behind it, I run a fixed-price **[reconciliation audit](https://proficientstack.com/spapi.html)** — settlement vs Finances API, never double-counted. It's the same approach the SP-API developer team validated publicly in [issue #5353](https://github.com/amzn/selling-partner-api-models/issues/5353).
+
 ---
 
 ### What I've built
